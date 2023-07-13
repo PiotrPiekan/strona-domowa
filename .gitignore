@@ -1,0 +1,13 @@
+# Pliki źródłowe Bootstrapa
+node_modules
+
+# Zdjęcia do galerii. Zostawiam jedno, by folder nie był pusty
+/images/gallery/*
+!/images/gallery/slonko.jpg
+
+# Mapa źródeł css
+/css/custom.min.css.map
+
+# Pliki npm
+package-lock.json
+package.json
