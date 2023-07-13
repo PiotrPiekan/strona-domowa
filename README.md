@@ -4,13 +4,6 @@
 Jest to, można by rzec, *Proof of Concept* mojej strony domowej.
 Jedynymi rzeczami bezpośrednio związanymi ze mną są wykonanie, design i moje zdjęcie, reszta to placeholdery.
 
-Projekt korzysta z kilku autorskich klas i kolorów BS-a:
-  - `bg-opacity-90` - 90% nieprzejrzystości tła
-  - `spacing-0/1/2` - letter-spacing
-  - `shadow-xxxl` - bardzo duży cień
-  - Kolory: `verydark` i `darkprimary`
-Szczegóły w `scss/custom.scss`
-
 W repozytorium nie ma zbędnych plików bootstrapa, zostały już skompilowane w plik css.
 Bootstrapowy JavaScript pobierany jest z zewnątrz.
 
